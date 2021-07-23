@@ -6,6 +6,7 @@ https://github.com/dedbeef/ok
 - .NET 4.8
 - Windows 7/10/11
 - Some way to clone the repo, e.g. `git` or `Visual Studio`.
+- VSCode (and highly recommend the default C# extension)
 - Already have the `ok` repo cloned (https://github.com/dedbeef/ok)
 
 #### Terms
